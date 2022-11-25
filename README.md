@@ -1,4 +1,1 @@
-# Data_Science_and_Statistical_Computation_in_Public_Health
-
-Description:
-A course in statistical learning and data mining. This course will cover a basic concept of data mining and techniques used in data mining. Students will learn the general concepts of computation statistics with public health application.
+In this project, the focus was to use several methods to predict pitches in the MLB before they are thrown. We will be focusing on 2015 Astros’ pitcher Dallas Keuchel.
